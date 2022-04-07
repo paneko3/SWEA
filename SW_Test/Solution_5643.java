@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_5643_정재철 {
+public class Solution_5643 {
 	static int N, M;
 	static ArrayList<ArrayList<Integer>> graph, reverse;
 	public static void main(String[] args) throws IOException {
